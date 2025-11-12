@@ -17,14 +17,12 @@ Here are some ideas to get you started:
 
 It's **@Neighbor-Z**.
 
+
 Feel free to discuss about these topics:
 
 Digital tech, Mass public transportations, Payment methods, 
-
 Design, UX, Photography, Videography, Lifestyles,
-
 Airline/Airport rankings,
-
 ...
 
 
