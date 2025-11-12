@@ -22,7 +22,7 @@ Feel free to discuss these topics:
 
 Digital tech, Mass public transportations, Payment methods, 
 Design, UX, Photography, Videography, Lifestyles,
-Airline/Airport rankings,
+Airlines/Airports,
 ...
 
 
