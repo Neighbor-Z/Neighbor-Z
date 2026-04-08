@@ -15,8 +15,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-It's **@Neighbor-Z**.
+It's **@Neighbor-Z**, a tech enthusiast.
 
+## Featured
+
+<p align="left">
+<img height="128" src="https://github.com/Neighbor-Z/SwiftMTP/blob/main/Materials/MTPIcon-macOS-Default-128x128@2x.png">
+</p>
+
+### [SwiftMTP](https://github.com/Neighbor-Z/SwiftMTP/)
+
+A light-weight, modern, Swift-based MTP device management tool for macOS.
+
+---
 
 Feel free to discuss these topics:
 
