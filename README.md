@@ -27,6 +27,14 @@ It's **@Neighbor-Z**, a tech enthusiast.
 
 A light-weight, modern, Swift-based MTP device management tool for macOS.
 
+<p align="left">
+<img height="128" src="https://github.com/Neighbor-Z/DiskIcicle/raw/main/Materials/AppIcon-iOS-Default-128x128@2x.png">
+</p>
+
+### [DiskIcicle](https://github.com/Neighbor-Z/DiskIcicle/)
+
+The first disk usage visualizer for iOS.
+
 ---
 
 Feel free to discuss these topics:
@@ -35,6 +43,3 @@ Digital tech, Mass public transportations, Payment methods,
 Design, UX, Photography, Videography, Lifestyles,
 Airlines/Airports,
 ...
-
-
-📫 zerkam04@gmail.com
